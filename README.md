@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm 𝕯𝖆𝖓𝖎𝖑<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend Junior Developer from Russia 🇷🇺</h3>
+
+
+
+
+
+
+
+
 
 <!--
 **Derton8/Derton8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
