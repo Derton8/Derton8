@@ -8,7 +8,7 @@
 <img align="right" width="350" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=008000&height=18&width=300&vCenter=true&lines=Немного+обо+мне" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=008000&height=18&width=300&vCenter=true&lines=Немного+обо+мне:" />
 
 <ul>
   <li> 💻 В настоящее время я заканчиваю курс Frontend разработчика в <a href="https://github.com/Hyrule-Technologies">Яндекс.Практикуме</a> </li>
