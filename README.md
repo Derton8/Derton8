@@ -5,7 +5,7 @@
   [![codewars](https://www.codewars.com/users/Derton8/badges/large)](https://www.codewars.com/users/Derton8)
 </section>
 
-<img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" width="350" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <ul>
   <li> 💻 В настоящее время я заканчиваю курс Frontend разработчика в <a href="https://github.com/Hyrule-Technologies">Яндекс.Практикуме</a> </li>
