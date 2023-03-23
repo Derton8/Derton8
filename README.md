@@ -1,25 +1,36 @@
-<h1 align="center">Hi there, I'm 𝕯𝖆𝖓𝖎𝖑<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend Junior Developer from Russia 🇷🇺</h3>
+<section align="center">
+  <h1>𝘏𝘪 𝘵𝘩𝘦𝘳𝘦, 𝘐'𝘮 𝘋𝘢𝘯𝘪𝘭<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <h3>Frontend Junior Developer from Russia</h3>
+  
+  [![codewars](https://www.codewars.com/users/Derton8/badges/large)](https://www.codewars.com/users/Derton8)
+</section>
 
+<img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
+<ul>
+  <li> 💻 В настоящее время я заканчиваю курс Frontend разработчика в <a href="https://github.com/Hyrule-Technologies">Яндекс.Практикуме</a> </li>
+  <li> 🎓 Бакалавр информационных систем. Закончил <a href="https://www.sevsu.ru/">СевГУ</a> </li>
+  <li> ✨ Стремлюсь к работе с настоящими боевыми проектами
+  <li> ✍🏼 Хочу писать чистый читабельный код </li>
+  <li> 📧 Как связаться со мной: <a href="mailto: danil.mysenko@yandex.ru">danil.mysenko@yandex.ru</a> </li>
+</ul>
 
+<h3>🛠️ Мой стек:</h3>
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<h3>🏆 Моя статистика:</h3>
 
-
-
-<!--
-**Derton8/Derton8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=Comediant24&hide=contribs&show_icons=true">
+    <img height="150" style="padding-right: 300px" src="https://github-readme-stats.vercel.app/api?username=Derton8&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Comediant24&layout=compact">
+    <img height="150" style="margin-left: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derton8&layout=compact&theme=dark" />
+  </a>
+  <br></br>
+  
+  ![](https://komarev.com/ghpvc/?username=Derton8)
+</div>
