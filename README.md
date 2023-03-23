@@ -33,10 +33,10 @@
 
 <div align="center">
   <h3>🏆 Моя статистика:</h3>
-  <a href="https://github-readme-stats.vercel.app/api?username=Comediant24&hide=contribs&show_icons=true">
+  <a href="https://github-readme-stats.vercel.app/api?username=Derton8&hide=contribs&show_icons=true">
     <img height="150" style="padding-right: 300px" src="https://github-readme-stats.vercel.app/api?username=Derton8&show_icons=true&theme=dark" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Comediant24&layout=compact">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Derton8&layout=compact">
     <img height="150" style="margin-left: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derton8&layout=compact&theme=dark" />
   </a>
   <br></br>
