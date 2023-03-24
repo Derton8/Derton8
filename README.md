@@ -6,10 +6,7 @@
 </section>
 <br>
 
-<img align="right" width="350" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-
-<img src="https://readme-typing-svg.herokuapp.com/?color=008000&height=18&width=300&vCenter=true&lines=Немного+обо+мне:" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=008000&height=18&width=300&vCenter=true&lines=Немного+обо+мне:;About+me:" />
 
 <ul>
   <li> 💻 В настоящее время я заканчиваю курс Frontend разработчика в <a href="https://practicum.yandex.ru/">Яндекс.Практикуме</a> </li>
@@ -39,7 +36,4 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Derton8&layout=compact">
     <img height="150" style="margin-left: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derton8&layout=compact&theme=dark" />
   </a>
-  <br></br>
-  
-  ![](https://komarev.com/ghpvc/?username=Derton8)
 </div>
