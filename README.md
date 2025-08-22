@@ -1,6 +1,6 @@
 <section align="center">
   <h1>𝘏𝘪 𝘵𝘩𝘦𝘳𝘦, 𝘐'𝘮 𝘋𝘢𝘯𝘪𝘭</h1>
-  <h3>Frontend Junior Developer from Russia</h3>
+  <h3>Frontend Developer from Russia</h3>
   
   [![codewars](https://www.codewars.com/users/Derton8/badges/large)](https://www.codewars.com/users/Derton8)
 </section>
